@@ -1,0 +1,362 @@
+2026-03-05 14:34:07,094 - utils_dashboard - INFO - Caricate 144 capitali dal file JSON
+2026-03-05 14:34:07,138 - utils_dashboard - INFO - Caricate 8 scansioni dal database
+2026-03-05 14:34:23,542 - utils_dashboard - INFO - Caricate 144 capitali dal file JSON
+2026-03-05 14:34:24,366 - utils_dashboard - INFO - Caricate 144 capitali dal file JSON
+2026-03-05 14:34:24,916 - utils_dashboard - INFO - Caricate 144 capitali dal file JSON
+2026-03-05 14:34:26,255 - utils_dashboard - INFO - Caricate 144 capitali dal file JSON
+2026-03-05 14:34:28,558 - utils_dashboard - INFO - Caricate 144 capitali dal file JSON
+2026-03-05 14:34:31,559 - utils_dashboard - INFO - Caricate 144 capitali dal file JSON
+2026-03-05 14:34:38,418 - utils_dashboard - INFO - Caricate 144 capitali dal file JSON
+2026-03-05 14:34:43,065 - utils_dashboard - INFO - Caricate 144 capitali dal file JSON
+2026-03-05 14:34:44,460 - utils_dashboard - INFO - Caricate 144 capitali dal file JSON
+2026-03-05 14:34:46,069 - utils_dashboard - INFO - Caricate 144 capitali dal file JSON
+2026-03-05 14:34:50,534 - utils_dashboard - INFO - Caricate 144 capitali dal file JSON
+2026-03-05 14:34:52,348 - utils_dashboard - INFO - Caricate 144 capitali dal file JSON
+2026-03-05 14:35:21,521 - utils_dashboard - INFO - Caricate 144 capitali dal file JSON
+2026-03-05 14:35:31,857 - utils_dashboard - INFO - Caricate 144 capitali dal file JSON
+2026-03-05 14:35:59,690 - utils_dashboard - INFO - Caricate 144 capitali dal file JSON
+2026-03-05 14:35:59,705 - utils_dashboard - INFO - Caricate 8 scansioni dal database
+2026-03-06 10:53:55,423 - utils_dashboard - INFO - Caricate 144 capitali dal file JSON
+2026-03-06 10:53:55,463 - utils_dashboard - INFO - Caricate 8 scansioni dal database (limit=500)
+2026-03-06 10:54:04,448 - utils_dashboard - INFO - Caricate 144 capitali dal file JSON
+2026-03-06 10:54:20,406 - utils_dashboard - INFO - Caricate 144 capitali dal file JSON
+2026-03-06 10:55:03,630 - utils_dashboard - INFO - Caricate 144 capitali dal file JSON
+2026-03-06 10:55:03,894 - utils_dashboard - INFO - Caricate 144 capitali dal file JSON
+2026-03-06 10:55:04,484 - utils_dashboard - WARNING - Username non valido: mariodolic2020@gmail.com — Errore: Username contiene caratteri non validi. Usa solo lettere, numeri, punti, trattini e underscore
+2026-03-06 11:02:16,636 - utils_dashboard - INFO - Caricate 144 capitali dal file JSON
+2026-03-06 11:02:16,676 - utils_dashboard - INFO - Caricate 8 scansioni dal database (limit=500)
+2026-03-06 11:02:46,990 - utils_dashboard - INFO - Caricate 144 capitali dal file JSON
+2026-03-06 11:02:47,250 - utils_dashboard - INFO - Caricate 144 capitali dal file JSON
+2026-03-06 11:06:40,432 - utils_dashboard - INFO - Scan completato con successo: mariodolic2020@gmail.com
+2026-03-06 11:09:05,843 - utils_dashboard - INFO - Caricate 144 capitali dal file JSON
+2026-03-06 11:09:05,872 - utils_dashboard - INFO - Caricate 9 scansioni dal database (limit=500)
+2026-03-06 11:09:11,011 - utils_dashboard - INFO - Caricate 144 capitali dal file JSON
+2026-03-06 11:09:13,069 - utils_dashboard - INFO - Caricate 144 capitali dal file JSON
+2026-03-06 11:09:29,186 - utils_dashboard - INFO - Snapshot esportato: dashboard_snapshot_20260306_110913.html
+2026-03-06 11:31:23,108 - utils_dashboard - INFO - Caricate 144 capitali dal file JSON
+2026-03-06 11:31:23,186 - utils_dashboard - INFO - Caricate 9 scansioni dal database (limit=500)
+2026-03-06 11:32:33,311 - utils_dashboard - INFO - Caricate 144 capitali dal file JSON
+2026-03-06 11:32:33,524 - utils_dashboard - INFO - Caricate 144 capitali dal file JSON
+2026-03-06 11:32:47,496 - utils_dashboard - INFO - Caricate 144 capitali dal file JSON
+2026-03-06 11:32:47,681 - utils_dashboard - INFO - Caricate 144 capitali dal file JSON
+2026-03-06 11:44:00,740 - utils_dashboard - INFO - Scan completato con successo: 3714881744
+2026-03-06 12:35:42,133 - datastore - INFO - Database initialized at C:\Users\eliad\OneDrive\Documenti\Project_Sherlook\osint_suite_pro\osint_scans.db
+2026-03-06 12:35:43,326 - utils_dashboard - INFO - Caricate 144 capitali dal file JSON
+2026-03-06 12:35:43,352 - datastore - ERROR - Errore caricamento scansioni: no such column: found_pct
+2026-03-06 12:35:43,372 - utils_dashboard - INFO - Caricate 0 scansioni dal database (limit=500)
+2026-03-06 12:35:55,399 - datastore - INFO - Database initialized at C:\Users\eliad\OneDrive\Documenti\Project_Sherlook\osint_suite_pro\osint_scans.db
+2026-03-06 12:35:55,408 - utils_dashboard - INFO - Caricate 144 capitali dal file JSON
+2026-03-06 12:36:00,145 - datastore - INFO - Database initialized at C:\Users\eliad\OneDrive\Documenti\Project_Sherlook\osint_suite_pro\osint_scans.db
+2026-03-06 12:36:00,151 - utils_dashboard - INFO - Caricate 144 capitali dal file JSON
+2026-03-06 12:36:01,676 - datastore - INFO - Database initialized at C:\Users\eliad\OneDrive\Documenti\Project_Sherlook\osint_suite_pro\osint_scans.db
+2026-03-06 12:36:01,682 - utils_dashboard - INFO - Caricate 144 capitali dal file JSON
+2026-03-06 12:36:03,744 - datastore - INFO - Database initialized at C:\Users\eliad\OneDrive\Documenti\Project_Sherlook\osint_suite_pro\osint_scans.db
+2026-03-06 12:36:03,751 - utils_dashboard - INFO - Caricate 144 capitali dal file JSON
+2026-03-06 12:36:03,765 - datastore - ERROR - Errore caricamento scansioni: no such column: found_pct
+2026-03-06 12:36:04,834 - datastore - INFO - Database initialized at C:\Users\eliad\OneDrive\Documenti\Project_Sherlook\osint_suite_pro\osint_scans.db
+2026-03-06 12:36:04,841 - utils_dashboard - INFO - Caricate 144 capitali dal file JSON
+2026-03-06 12:36:08,535 - datastore - INFO - Database initialized at C:\Users\eliad\OneDrive\Documenti\Project_Sherlook\osint_suite_pro\osint_scans.db
+2026-03-06 12:36:08,542 - utils_dashboard - INFO - Caricate 144 capitali dal file JSON
+2026-03-06 12:36:08,557 - datastore - ERROR - Errore caricamento scansioni: no such column: found_pct
+2026-03-06 12:36:10,974 - datastore - INFO - Database initialized at C:\Users\eliad\OneDrive\Documenti\Project_Sherlook\osint_suite_pro\osint_scans.db
+2026-03-06 12:36:10,980 - utils_dashboard - INFO - Caricate 144 capitali dal file JSON
+2026-03-06 12:36:11,003 - utils_dashboard - INFO - System Insights: 0 scans, 0 utenti, 0.1 MB
+2026-03-06 12:36:13,442 - datastore - INFO - Database initialized at C:\Users\eliad\OneDrive\Documenti\Project_Sherlook\osint_suite_pro\osint_scans.db
+2026-03-06 12:36:13,447 - utils_dashboard - INFO - Caricate 144 capitali dal file JSON
+2026-03-06 12:36:13,464 - datastore - ERROR - Errore caricamento scansioni: no such column: found_pct
+2026-03-06 12:36:33,957 - datastore - INFO - Database initialized at C:\Users\eliad\OneDrive\Documenti\Project_Sherlook\osint_suite_pro\osint_scans.db
+2026-03-06 12:36:33,966 - utils_dashboard - INFO - Caricate 144 capitali dal file JSON
+2026-03-06 13:12:39,326 - datastore - INFO - Database initialized at C:\Users\eliad\OneDrive\Documenti\Project_Sherlook\osint_suite_pro\osint_scans.db
+2026-03-06 13:12:39,746 - utils_dashboard - INFO - Caricate 144 capitali dal file JSON
+2026-03-06 13:12:39,763 - datastore - ERROR - Errore caricamento scansioni: no such column: found_pct
+2026-03-06 13:12:39,781 - utils_dashboard - INFO - Caricate 0 scansioni dal database (limit=500)
+2026-03-06 13:15:35,237 - datastore - INFO - Database initialized at C:\Users\eliad\OneDrive\Documenti\Project_Sherlook\osint_suite_pro\osint_scans.db
+2026-03-06 13:15:35,240 - utils_dashboard - INFO - Caricate 144 capitali dal file JSON
+2026-03-06 13:15:38,073 - datastore - INFO - Database initialized at C:\Users\eliad\OneDrive\Documenti\Project_Sherlook\osint_suite_pro\osint_scans.db
+2026-03-06 13:15:38,075 - utils_dashboard - INFO - Caricate 144 capitali dal file JSON
+2026-03-06 13:16:38,427 - datastore - INFO - Database initialized at C:\Users\eliad\OneDrive\Documenti\Project_Sherlook\osint_suite_pro\osint_scans.db
+2026-03-06 13:16:38,430 - utils_dashboard - INFO - Caricate 144 capitali dal file JSON
+2026-03-06 13:16:38,433 - datastore - ERROR - Errore caricamento scansioni: no such column: found_pct
+2026-03-06 13:16:39,897 - datastore - INFO - Database initialized at C:\Users\eliad\OneDrive\Documenti\Project_Sherlook\osint_suite_pro\osint_scans.db
+2026-03-06 13:16:39,900 - utils_dashboard - INFO - Caricate 144 capitali dal file JSON
+2026-03-06 13:28:52,253 - datastore - INFO - Database initialized at C:\Users\eliad\OneDrive\Documenti\Project_Sherlook\osint_suite_pro\osint_scans.db
+2026-03-06 13:28:52,568 - utils_dashboard - INFO - Caricate 144 capitali dal file JSON
+2026-03-06 13:28:52,575 - datastore - ERROR - Errore caricamento scansioni: no such column: found_pct
+2026-03-06 13:28:52,590 - utils_dashboard - INFO - Caricate 0 scansioni dal database (limit=500)
+2026-03-06 13:28:56,952 - datastore - INFO - Database initialized at C:\Users\eliad\OneDrive\Documenti\Project_Sherlook\osint_suite_pro\osint_scans.db
+2026-03-06 13:28:56,955 - utils_dashboard - INFO - Caricate 144 capitali dal file JSON
+2026-03-06 13:28:56,969 - datastore - ERROR - Errore salvataggio scan: table scans has no column named found_pct
+2026-03-06 13:28:56,970 - datastore - ERROR - Errore salvataggio scan: table scans has no column named found_pct
+2026-03-06 13:28:56,971 - datastore - ERROR - Errore salvataggio scan: table scans has no column named found_pct
+2026-03-06 13:28:56,972 - datastore - ERROR - Errore salvataggio scan: table scans has no column named found_pct
+2026-03-06 13:28:56,974 - datastore - ERROR - Errore salvataggio scan: table scans has no column named found_pct
+2026-03-06 13:28:56,974 - utils_dashboard - INFO - Demo data generato: 5 scansioni
+2026-03-06 13:28:57,045 - datastore - INFO - Database initialized at C:\Users\eliad\OneDrive\Documenti\Project_Sherlook\osint_suite_pro\osint_scans.db
+2026-03-06 13:28:57,048 - utils_dashboard - INFO - Caricate 144 capitali dal file JSON
+2026-03-06 13:28:57,051 - datastore - ERROR - Errore caricamento scansioni: no such column: found_pct
+2026-03-06 13:28:57,052 - utils_dashboard - INFO - Caricate 0 scansioni dal database (limit=500)
+2026-03-06 13:29:03,207 - datastore - INFO - Database initialized at C:\Users\eliad\OneDrive\Documenti\Project_Sherlook\osint_suite_pro\osint_scans.db
+2026-03-06 13:29:03,210 - utils_dashboard - INFO - Caricate 144 capitali dal file JSON
+2026-03-06 13:29:03,215 - datastore - ERROR - Errore salvataggio scan: table scans has no column named found_pct
+2026-03-06 13:29:03,217 - datastore - ERROR - Errore salvataggio scan: table scans has no column named found_pct
+2026-03-06 13:29:03,220 - datastore - ERROR - Errore salvataggio scan: table scans has no column named found_pct
+2026-03-06 13:29:03,221 - datastore - ERROR - Errore salvataggio scan: table scans has no column named found_pct
+2026-03-06 13:29:03,222 - datastore - ERROR - Errore salvataggio scan: table scans has no column named found_pct
+2026-03-06 13:29:03,223 - utils_dashboard - INFO - Demo data generato: 5 scansioni
+2026-03-06 13:29:03,296 - datastore - INFO - Database initialized at C:\Users\eliad\OneDrive\Documenti\Project_Sherlook\osint_suite_pro\osint_scans.db
+2026-03-06 13:29:03,299 - utils_dashboard - INFO - Caricate 144 capitali dal file JSON
+2026-03-06 13:29:03,303 - datastore - ERROR - Errore caricamento scansioni: no such column: found_pct
+2026-03-06 13:29:03,304 - utils_dashboard - INFO - Caricate 0 scansioni dal database (limit=500)
+2026-03-06 13:29:12,541 - datastore - INFO - Database initialized at C:\Users\eliad\OneDrive\Documenti\Project_Sherlook\osint_suite_pro\osint_scans.db
+2026-03-06 13:29:12,544 - utils_dashboard - INFO - Caricate 144 capitali dal file JSON
+2026-03-06 13:29:26,966 - datastore - INFO - Database initialized at C:\Users\eliad\OneDrive\Documenti\Project_Sherlook\osint_suite_pro\osint_scans.db
+2026-03-06 13:29:26,969 - utils_dashboard - INFO - Caricate 144 capitali dal file JSON
+2026-03-06 13:29:27,050 - datastore - INFO - Database initialized at C:\Users\eliad\OneDrive\Documenti\Project_Sherlook\osint_suite_pro\osint_scans.db
+2026-03-06 13:29:27,052 - utils_dashboard - INFO - Caricate 144 capitali dal file JSON
+2026-03-06 13:29:28,877 - datastore - INFO - Database initialized at C:\Users\eliad\OneDrive\Documenti\Project_Sherlook\osint_suite_pro\osint_scans.db
+2026-03-06 13:29:28,879 - utils_dashboard - INFO - Caricate 144 capitali dal file JSON
+2026-03-06 13:29:29,759 - datastore - INFO - Database initialized at C:\Users\eliad\OneDrive\Documenti\Project_Sherlook\osint_suite_pro\osint_scans.db
+2026-03-06 13:29:29,762 - utils_dashboard - INFO - Caricate 144 capitali dal file JSON
+2026-03-06 13:29:47,934 - utils - WARNING - Status 403 per https://medium.com/@elia123dolic, retry in 2s (attempt 1)
+2026-03-06 13:29:48,182 - utils - WARNING - Status 403 per https://medium.com/@elia123dolic, retry in 2s (attempt 1)
+2026-03-06 13:29:52,448 - utils - WARNING - Status 403 per https://www.quora.com/profile/elia123dolic, retry in 2s (attempt 1)
+2026-03-06 13:29:52,535 - utils - WARNING - Status 403 per https://www.quora.com/profile/elia123dolic, retry in 2s (attempt 1)
+2026-03-06 13:30:02,073 - utils - WARNING - Status 403 per https://www.epicgames.com/store/en-US/user/elia123dolic, retry in 2s (attempt 1)
+2026-03-06 13:30:02,172 - utils - WARNING - Status 403 per https://www.epicgames.com/store/en-US/user/elia123dolic, retry in 2s (attempt 1)
+2026-03-06 13:30:06,342 - utils - WARNING - Status 403 per https://www.artstation.com/elia123dolic, retry in 2s (attempt 1)
+2026-03-06 13:30:06,891 - utils - WARNING - Status 403 per https://www.artstation.com/elia123dolic, retry in 2s (attempt 1)
+2026-03-06 13:30:12,988 - utils - WARNING - Status 403 per https://www.behance.net/elia123dolic, retry in 2s (attempt 1)
+2026-03-06 13:30:13,091 - utils - WARNING - Status 403 per https://www.behance.net/elia123dolic, retry in 2s (attempt 1)
+2026-03-06 13:30:15,846 - utils - WARNING - Status 403 per https://rumble.com/@elia123dolic, retry in 2s (attempt 1)
+2026-03-06 13:30:16,082 - utils - WARNING - Status 403 per https://rumble.com/@elia123dolic, retry in 2s (attempt 1)
+2026-03-06 13:30:23,529 - utils - WARNING - Status 403 per https://www.producthunt.com/search?q=elia123dolic, retry in 2s (attempt 1)
+2026-03-06 13:30:24,074 - utils - WARNING - Status 403 per https://www.producthunt.com/search?q=elia123dolic, retry in 2s (attempt 1)
+2026-03-06 13:30:28,588 - utils - WARNING - Status 403 per https://www.okcupid.com/profile/elia123dolic, retry in 2s (attempt 1)
+2026-03-06 13:30:28,791 - utils - WARNING - Status 403 per https://www.okcupid.com/profile/elia123dolic, retry in 2s (attempt 1)
+2026-03-06 13:30:35,930 - utils - WARNING - Status 403 per https://coinbase.com/user/elia123dolic, retry in 2s (attempt 1)
+2026-03-06 13:30:35,978 - utils - WARNING - Status 403 per https://coinbase.com/user/elia123dolic, retry in 2s (attempt 1)
+2026-03-06 13:30:39,726 - utils - WARNING - Status 403 per https://kraken.com/user/elia123dolic, retry in 2s (attempt 1)
+2026-03-06 13:30:40,239 - utils - WARNING - Status 403 per https://kraken.com/user/elia123dolic, retry in 2s (attempt 1)
+2026-03-06 13:30:50,499 - utils - WARNING - Status 403 per https://gitlab.com/elia123dolic, retry in 2s (attempt 1)
+2026-03-06 13:30:50,923 - utils - WARNING - Status 403 per https://gitlab.com/elia123dolic, retry in 2s (attempt 1)
+2026-03-06 13:30:56,351 - utils - WARNING - Status 403 per https://codepen.io/elia123dolic, retry in 2s (attempt 1)
+2026-03-06 13:30:56,547 - utils - WARNING - Status 403 per https://codepen.io/elia123dolic, retry in 2s (attempt 1)
+2026-03-06 13:31:01,681 - utils - WARNING - Status 403 per https://angel.co/elia123dolic, retry in 2s (attempt 1)
+2026-03-06 13:31:01,773 - utils - WARNING - Status 403 per https://angel.co/elia123dolic, retry in 2s (attempt 1)
+2026-03-06 13:31:26,515 - utils - WARNING - Status 403 per https://medium.com/@elia123dolic, retry in 2s (attempt 1)
+2026-03-06 13:31:31,533 - utils - WARNING - Status 403 per https://www.quora.com/profile/elia123dolic, retry in 2s (attempt 1)
+2026-03-06 13:31:32,641 - utils - WARNING - Status 403 per https://medium.com/@elia123dolic, retry in 2s (attempt 1)
+2026-03-06 13:31:37,241 - utils - WARNING - Status 403 per https://www.quora.com/profile/elia123dolic, retry in 2s (attempt 1)
+2026-03-06 13:31:38,708 - utils - WARNING - Status 403 per https://www.epicgames.com/store/en-US/user/elia123dolic, retry in 2s (attempt 1)
+2026-03-06 13:31:41,562 - datastore - INFO - Database initialized at C:\Users\eliad\OneDrive\Documenti\Project_Sherlook\osint_suite_pro\osint_scans.db
+2026-03-06 13:31:41,564 - utils_dashboard - INFO - Caricate 144 capitali dal file JSON
+2026-03-06 13:31:42,600 - datastore - INFO - Database initialized at C:\Users\eliad\OneDrive\Documenti\Project_Sherlook\osint_suite_pro\osint_scans.db
+2026-03-06 13:31:42,602 - utils_dashboard - INFO - Caricate 144 capitali dal file JSON
+2026-03-06 13:31:43,282 - utils - WARNING - Status 403 per https://www.artstation.com/elia123dolic, retry in 2s (attempt 1)
+2026-03-06 13:31:44,212 - utils - WARNING - Status 403 per https://www.epicgames.com/store/en-US/user/elia123dolic, retry in 2s (attempt 1)
+2026-03-06 13:31:44,511 - datastore - INFO - Database initialized at C:\Users\eliad\OneDrive\Documenti\Project_Sherlook\osint_suite_pro\osint_scans.db
+2026-03-06 13:31:44,514 - utils_dashboard - INFO - Caricate 144 capitali dal file JSON
+2026-03-06 13:31:47,472 - datastore - INFO - Database initialized at C:\Users\eliad\OneDrive\Documenti\Project_Sherlook\osint_suite_pro\osint_scans.db
+2026-03-06 13:31:47,475 - utils_dashboard - INFO - Caricate 144 capitali dal file JSON
+2026-03-06 13:31:47,482 - datastore - ERROR - Errore salvataggio scan: table scans has no column named found_pct
+2026-03-06 13:31:47,483 - datastore - ERROR - Errore salvataggio scan: table scans has no column named found_pct
+2026-03-06 13:31:47,485 - datastore - ERROR - Errore salvataggio scan: table scans has no column named found_pct
+2026-03-06 13:31:47,486 - datastore - ERROR - Errore salvataggio scan: table scans has no column named found_pct
+2026-03-06 13:31:47,488 - datastore - ERROR - Errore salvataggio scan: table scans has no column named found_pct
+2026-03-06 13:31:47,489 - utils_dashboard - INFO - Demo data generato: 5 scansioni
+2026-03-06 13:31:47,551 - datastore - INFO - Database initialized at C:\Users\eliad\OneDrive\Documenti\Project_Sherlook\osint_suite_pro\osint_scans.db
+2026-03-06 13:31:47,553 - utils_dashboard - INFO - Caricate 144 capitali dal file JSON
+2026-03-06 13:31:47,557 - datastore - ERROR - Errore caricamento scansioni: no such column: found_pct
+2026-03-06 13:31:47,558 - utils_dashboard - INFO - Caricate 0 scansioni dal database (limit=500)
+2026-03-06 13:31:48,840 - utils - WARNING - Status 403 per https://www.artstation.com/elia123dolic, retry in 2s (attempt 1)
+2026-03-06 13:31:49,092 - datastore - INFO - Database initialized at C:\Users\eliad\OneDrive\Documenti\Project_Sherlook\osint_suite_pro\osint_scans.db
+2026-03-06 13:31:49,096 - utils_dashboard - INFO - Caricate 144 capitali dal file JSON
+2026-03-06 13:31:49,514 - utils - WARNING - Status 403 per https://www.behance.net/elia123dolic, retry in 2s (attempt 1)
+2026-03-06 13:31:52,267 - utils - WARNING - Status 403 per https://rumble.com/@elia123dolic, retry in 2s (attempt 1)
+2026-03-06 13:31:55,264 - utils - WARNING - Status 403 per https://www.behance.net/elia123dolic, retry in 2s (attempt 1)
+2026-03-06 13:31:57,958 - utils - WARNING - Status 403 per https://rumble.com/@elia123dolic, retry in 2s (attempt 1)
+2026-03-06 13:31:59,222 - utils - WARNING - Status 403 per https://www.producthunt.com/search?q=elia123dolic, retry in 2s (attempt 1)
+2026-03-06 13:32:03,730 - datastore - INFO - Database initialized at C:\Users\eliad\OneDrive\Documenti\Project_Sherlook\osint_suite_pro\osint_scans.db
+2026-03-06 13:32:03,732 - utils_dashboard - INFO - Caricate 144 capitali dal file JSON
+2026-03-06 13:32:04,741 - utils - WARNING - Status 403 per https://www.producthunt.com/search?q=elia123dolic, retry in 2s (attempt 1)
+2026-03-06 13:32:05,225 - utils - WARNING - Status 403 per https://www.okcupid.com/profile/elia123dolic, retry in 2s (attempt 1)
+2026-03-06 13:32:05,959 - datastore - INFO - Database initialized at C:\Users\eliad\OneDrive\Documenti\Project_Sherlook\osint_suite_pro\osint_scans.db
+2026-03-06 13:32:05,961 - utils_dashboard - INFO - Caricate 144 capitali dal file JSON
+2026-03-06 13:32:07,461 - datastore - INFO - Database initialized at C:\Users\eliad\OneDrive\Documenti\Project_Sherlook\osint_suite_pro\osint_scans.db
+2026-03-06 13:32:07,464 - utils_dashboard - INFO - Caricate 144 capitali dal file JSON
+2026-03-06 13:32:10,728 - utils - WARNING - Status 403 per https://www.okcupid.com/profile/elia123dolic, retry in 2s (attempt 1)
+2026-03-06 13:32:12,318 - utils - WARNING - Status 403 per https://coinbase.com/user/elia123dolic, retry in 2s (attempt 1)
+2026-03-06 13:32:17,404 - utils - WARNING - Status 403 per https://coinbase.com/user/elia123dolic, retry in 2s (attempt 1)
+2026-03-06 13:32:17,460 - utils - WARNING - Status 403 per https://kraken.com/user/elia123dolic, retry in 2s (attempt 1)
+2026-03-06 13:32:22,966 - utils - WARNING - Status 403 per https://kraken.com/user/elia123dolic, retry in 2s (attempt 1)
+2026-03-06 13:32:26,881 - utils - WARNING - Status 403 per https://medium.com/@Elon Musk, retry in 2s (attempt 1)
+2026-03-06 13:32:27,681 - utils - WARNING - Status 403 per https://gitlab.com/elia123dolic, retry in 2s (attempt 1)
+2026-03-06 13:32:31,994 - utils - WARNING - Status 403 per https://www.quora.com/profile/Elon Musk, retry in 2s (attempt 1)
+2026-03-06 13:32:33,031 - utils - WARNING - Status 403 per https://gitlab.com/elia123dolic, retry in 2s (attempt 1)
+2026-03-06 13:32:34,435 - utils - WARNING - Status 403 per https://codepen.io/elia123dolic, retry in 2s (attempt 1)
+2026-03-06 13:32:39,297 - utils - WARNING - Status 403 per https://angel.co/elia123dolic, retry in 2s (attempt 1)
+2026-03-06 13:32:39,766 - utils - WARNING - Status 403 per https://codepen.io/elia123dolic, retry in 2s (attempt 1)
+2026-03-06 13:32:40,765 - utils - WARNING - Status 403 per https://www.epicgames.com/store/en-US/user/Elon Musk, retry in 2s (attempt 1)
+2026-03-06 13:32:44,710 - utils - WARNING - Status 403 per https://angel.co/elia123dolic, retry in 2s (attempt 1)
+2026-03-06 13:32:45,054 - datastore - ERROR - Errore salvataggio scan: table scans has no column named found_pct
+2026-03-06 13:32:45,880 - utils - WARNING - Status 403 per https://www.artstation.com/Elon Musk, retry in 2s (attempt 1)
+2026-03-06 13:32:50,362 - datastore - ERROR - Errore salvataggio scan: table scans has no column named found_pct
+2026-03-06 13:32:51,035 - utils - WARNING - Status 403 per https://www.behance.net/Elon Musk, retry in 2s (attempt 1)
+2026-03-06 13:32:53,757 - utils - WARNING - Status 403 per https://rumble.com/@Elon Musk, retry in 2s (attempt 1)
+2026-03-06 13:33:01,309 - utils - WARNING - Status 403 per https://www.producthunt.com/search?q=Elon Musk, retry in 2s (attempt 1)
+2026-03-06 13:33:05,801 - utils - WARNING - Status 403 per https://www.okcupid.com/profile/Elon Musk, retry in 2s (attempt 1)
+2026-03-06 13:33:12,436 - utils - WARNING - Status 403 per https://coinbase.com/user/Elon Musk, retry in 2s (attempt 1)
+2026-03-06 13:33:16,340 - utils - WARNING - Status 403 per https://kraken.com/user/Elon Musk, retry in 2s (attempt 1)
+2026-03-06 13:33:25,564 - utils - WARNING - Status 403 per https://gitlab.com/Elon Musk, retry in 2s (attempt 1)
+2026-03-06 13:33:31,157 - utils - WARNING - Status 403 per https://codepen.io/Elon Musk, retry in 2s (attempt 1)
+2026-03-06 13:33:36,232 - utils - WARNING - Status 403 per https://angel.co/Elon Musk, retry in 2s (attempt 1)
+2026-03-06 13:33:58,462 - utils - WARNING - Status 403 per https://medium.com/@Elon Musk, retry in 2s (attempt 1)
+2026-03-06 13:34:03,185 - utils - WARNING - Status 403 per https://www.quora.com/profile/Elon Musk, retry in 2s (attempt 1)
+2026-03-06 13:34:10,268 - utils - WARNING - Status 403 per https://www.epicgames.com/store/en-US/user/Elon Musk, retry in 2s (attempt 1)
+2026-03-06 13:34:14,726 - utils - WARNING - Status 403 per https://www.artstation.com/Elon Musk, retry in 2s (attempt 1)
+2026-03-06 13:34:19,700 - utils - WARNING - Status 403 per https://www.behance.net/Elon Musk, retry in 2s (attempt 1)
+2026-03-06 13:34:22,528 - utils - WARNING - Status 403 per https://rumble.com/@Elon Musk, retry in 2s (attempt 1)
+2026-03-06 13:34:29,441 - utils - WARNING - Status 403 per https://www.producthunt.com/search?q=Elon Musk, retry in 2s (attempt 1)
+2026-03-06 13:34:34,878 - utils - WARNING - Status 403 per https://www.okcupid.com/profile/Elon Musk, retry in 2s (attempt 1)
+2026-03-06 13:34:41,173 - utils - WARNING - Status 403 per https://coinbase.com/user/Elon Musk, retry in 2s (attempt 1)
+2026-03-06 13:34:46,145 - utils - WARNING - Status 403 per https://kraken.com/user/Elon Musk, retry in 2s (attempt 1)
+2026-03-06 13:34:54,240 - utils - WARNING - Status 403 per https://gitlab.com/Elon Musk, retry in 2s (attempt 1)
+2026-03-06 13:35:00,615 - utils - WARNING - Status 403 per https://codepen.io/Elon Musk, retry in 2s (attempt 1)
+2026-03-06 13:35:05,142 - utils - WARNING - Status 403 per https://angel.co/Elon Musk, retry in 2s (attempt 1)
+2026-03-06 13:35:10,403 - datastore - ERROR - Errore salvataggio scan: table scans has no column named found_pct
+2026-03-06 13:35:10,404 - utils_dashboard - INFO - Scan completato con successo: Elon Musk
+2026-03-06 13:35:11,411 - exporters - INFO - PDF report generato: C:\Users\eliad\OneDrive\Documenti\Project_Sherlook\osint_suite_pro\reports\Elon Musk_report.pdf
+2026-03-06 13:35:11,460 - exporters - INFO - Excel report generato: C:\Users\eliad\OneDrive\Documenti\Project_Sherlook\osint_suite_pro\reports\osint_report_Elon Musk.xlsx
+2026-03-06 13:36:35,977 - datastore - INFO - Database initialized at C:\Users\eliad\OneDrive\Documenti\Project_Sherlook\osint_suite_pro\osint_scans.db
+2026-03-06 13:36:35,981 - utils_dashboard - INFO - Caricate 144 capitali dal file JSON
+2026-03-09 12:48:45,542 - datastore - INFO - Database initialized at C:\Users\eliad\OneDrive\Documenti\Project_Sherlook\osint_suite_pro\osint_scans.db
+2026-03-09 12:48:45,939 - utils_dashboard - INFO - Caricate 144 capitali dal file JSON
+2026-03-09 12:48:45,954 - datastore - ERROR - Errore caricamento scansioni: no such column: found_pct
+2026-03-09 12:48:45,972 - utils_dashboard - INFO - Caricate 0 scansioni dal database (limit=500)
+2026-03-09 12:49:02,030 - datastore - INFO - Database initialized at C:\Users\eliad\OneDrive\Documenti\Project_Sherlook\osint_suite_pro\osint_scans.db
+2026-03-09 12:49:02,033 - utils_dashboard - INFO - Caricate 144 capitali dal file JSON
+2026-03-09 12:49:06,382 - datastore - INFO - Database initialized at C:\Users\eliad\OneDrive\Documenti\Project_Sherlook\osint_suite_pro\osint_scans.db
+2026-03-09 12:49:06,385 - utils_dashboard - INFO - Caricate 144 capitali dal file JSON
+2026-03-09 12:49:07,844 - datastore - INFO - Database initialized at C:\Users\eliad\OneDrive\Documenti\Project_Sherlook\osint_suite_pro\osint_scans.db
+2026-03-09 12:49:07,847 - utils_dashboard - INFO - Caricate 144 capitali dal file JSON
+2026-03-09 12:49:07,851 - datastore - ERROR - Errore caricamento scansioni: no such column: found_pct
+2026-03-09 12:49:09,103 - datastore - INFO - Database initialized at C:\Users\eliad\OneDrive\Documenti\Project_Sherlook\osint_suite_pro\osint_scans.db
+2026-03-09 12:49:09,105 - utils_dashboard - INFO - Caricate 144 capitali dal file JSON
+2026-03-09 12:49:09,111 - datastore - ERROR - Errore caricamento scansioni: no such column: found_pct
+2026-03-09 12:49:10,196 - datastore - INFO - Database initialized at C:\Users\eliad\OneDrive\Documenti\Project_Sherlook\osint_suite_pro\osint_scans.db
+2026-03-09 12:49:10,199 - utils_dashboard - INFO - Caricate 144 capitali dal file JSON
+2026-03-09 12:49:10,210 - utils_dashboard - INFO - System Insights: 0 scans, 0 utenti, 0.1 MB
+2026-03-09 12:49:12,313 - datastore - INFO - Database initialized at C:\Users\eliad\OneDrive\Documenti\Project_Sherlook\osint_suite_pro\osint_scans.db
+2026-03-09 12:49:12,316 - utils_dashboard - INFO - Caricate 144 capitali dal file JSON
+2026-03-09 12:49:15,902 - datastore - INFO - Database initialized at C:\Users\eliad\OneDrive\Documenti\Project_Sherlook\osint_suite_pro\osint_scans.db
+2026-03-09 12:49:15,905 - utils_dashboard - INFO - Caricate 144 capitali dal file JSON
+2026-03-09 12:49:15,919 - datastore - ERROR - Errore salvataggio scan: table scans has no column named found_pct
+2026-03-09 12:49:15,920 - datastore - ERROR - Errore salvataggio scan: table scans has no column named found_pct
+2026-03-09 12:49:15,921 - datastore - ERROR - Errore salvataggio scan: table scans has no column named found_pct
+2026-03-09 12:49:15,923 - datastore - ERROR - Errore salvataggio scan: table scans has no column named found_pct
+2026-03-09 12:49:15,925 - datastore - ERROR - Errore salvataggio scan: table scans has no column named found_pct
+2026-03-09 12:49:15,925 - utils_dashboard - INFO - Demo data generato: 5 scansioni
+2026-03-09 12:49:15,984 - datastore - INFO - Database initialized at C:\Users\eliad\OneDrive\Documenti\Project_Sherlook\osint_suite_pro\osint_scans.db
+2026-03-09 12:49:15,987 - utils_dashboard - INFO - Caricate 144 capitali dal file JSON
+2026-03-09 12:49:15,990 - datastore - ERROR - Errore caricamento scansioni: no such column: found_pct
+2026-03-09 12:49:15,991 - utils_dashboard - INFO - Caricate 0 scansioni dal database (limit=500)
+2026-03-09 12:49:37,679 - datastore - INFO - Database initialized at C:\Users\eliad\OneDrive\Documenti\Project_Sherlook\osint_suite_pro\osint_scans.db
+2026-03-09 12:49:37,681 - utils_dashboard - INFO - Caricate 144 capitali dal file JSON
+2026-03-09 12:49:38,445 - datastore - INFO - Database initialized at C:\Users\eliad\OneDrive\Documenti\Project_Sherlook\osint_suite_pro\osint_scans.db
+2026-03-09 12:49:38,448 - utils_dashboard - INFO - Caricate 144 capitali dal file JSON
+2026-03-09 12:49:45,368 - datastore - INFO - Database initialized at C:\Users\eliad\OneDrive\Documenti\Project_Sherlook\osint_suite_pro\osint_scans.db
+2026-03-09 12:49:45,371 - utils_dashboard - INFO - Caricate 144 capitali dal file JSON
+2026-03-09 12:49:45,378 - datastore - ERROR - Errore salvataggio scan: table scans has no column named found_pct
+2026-03-09 12:49:45,380 - datastore - ERROR - Errore salvataggio scan: table scans has no column named found_pct
+2026-03-09 12:49:45,382 - datastore - ERROR - Errore salvataggio scan: table scans has no column named found_pct
+2026-03-09 12:49:45,383 - datastore - ERROR - Errore salvataggio scan: table scans has no column named found_pct
+2026-03-09 12:49:45,385 - datastore - ERROR - Errore salvataggio scan: table scans has no column named found_pct
+2026-03-09 12:49:45,386 - utils_dashboard - INFO - Demo data generato: 5 scansioni
+2026-03-09 12:49:45,447 - datastore - INFO - Database initialized at C:\Users\eliad\OneDrive\Documenti\Project_Sherlook\osint_suite_pro\osint_scans.db
+2026-03-09 12:49:45,449 - utils_dashboard - INFO - Caricate 144 capitali dal file JSON
+2026-03-09 12:49:45,453 - datastore - ERROR - Errore caricamento scansioni: no such column: found_pct
+2026-03-09 12:49:45,454 - utils_dashboard - INFO - Caricate 0 scansioni dal database (limit=500)
+2026-03-09 12:49:48,834 - datastore - INFO - Database initialized at C:\Users\eliad\OneDrive\Documenti\Project_Sherlook\osint_suite_pro\osint_scans.db
+2026-03-09 12:49:48,837 - utils_dashboard - INFO - Caricate 144 capitali dal file JSON
+2026-03-09 12:49:57,489 - datastore - INFO - Database initialized at C:\Users\eliad\OneDrive\Documenti\Project_Sherlook\osint_suite_pro\osint_scans.db
+2026-03-09 12:49:57,492 - utils_dashboard - INFO - Caricate 144 capitali dal file JSON
+2026-03-09 12:49:58,922 - datastore - INFO - Database initialized at C:\Users\eliad\OneDrive\Documenti\Project_Sherlook\osint_suite_pro\osint_scans.db
+2026-03-09 12:49:58,925 - utils_dashboard - INFO - Caricate 144 capitali dal file JSON
+2026-03-09 12:50:00,340 - datastore - INFO - Database initialized at C:\Users\eliad\OneDrive\Documenti\Project_Sherlook\osint_suite_pro\osint_scans.db
+2026-03-09 12:50:00,342 - utils_dashboard - INFO - Caricate 144 capitali dal file JSON
+2026-03-09 12:50:00,346 - datastore - ERROR - Errore caricamento scansioni: no such column: found_pct
+2026-03-09 12:50:01,319 - datastore - INFO - Database initialized at C:\Users\eliad\OneDrive\Documenti\Project_Sherlook\osint_suite_pro\osint_scans.db
+2026-03-09 12:50:01,322 - utils_dashboard - INFO - Caricate 144 capitali dal file JSON
+2026-03-09 12:50:01,328 - utils_dashboard - INFO - System Insights: 0 scans, 0 utenti, 0.1 MB
+2026-03-09 12:50:03,120 - datastore - INFO - Database initialized at C:\Users\eliad\OneDrive\Documenti\Project_Sherlook\osint_suite_pro\osint_scans.db
+2026-03-09 12:50:03,123 - utils_dashboard - INFO - Caricate 144 capitali dal file JSON
+2026-03-09 12:54:54,148 - datastore - INFO - Database initialized at C:\Users\eliad\OneDrive\Documenti\Project_Sherlook\osint_suite_pro\osint_scans.db
+2026-03-09 12:54:54,151 - utils_dashboard - INFO - Caricate 144 capitali dal file JSON
+2026-03-09 12:54:54,162 - datastore - ERROR - Errore caricamento scansioni: no such column: found_pct
+2026-03-09 12:54:54,168 - utils_dashboard - INFO - Caricate 0 scansioni dal database (limit=500)
+2026-03-09 12:55:36,759 - datastore - INFO - Database initialized at C:\Users\eliad\OneDrive\Documenti\Project_Sherlook\osint_suite_pro\osint_scans.db
+2026-03-09 12:55:36,762 - utils_dashboard - INFO - Caricate 144 capitali dal file JSON
+2026-03-09 12:55:36,767 - datastore - ERROR - Errore caricamento scansioni: no such column: found_pct
+2026-03-09 12:55:36,770 - utils_dashboard - INFO - Caricate 0 scansioni dal database (limit=500)
+2026-03-09 12:55:50,127 - datastore - INFO - Database initialized at C:\Users\eliad\OneDrive\Documenti\Project_Sherlook\osint_suite_pro\osint_scans.db
+2026-03-09 12:55:50,130 - utils_dashboard - INFO - Caricate 144 capitali dal file JSON
+2026-03-09 12:58:56,103 - datastore - INFO - Database initialized at C:\Users\eliad\OneDrive\Documenti\Project_Sherlook\osint_suite_pro\osint_scans.db
+2026-03-09 12:58:56,107 - utils_dashboard - INFO - Caricate 144 capitali dal file JSON
+2026-03-09 12:58:56,114 - datastore - ERROR - Errore caricamento scansioni: no such column: found_pct
+2026-03-09 12:58:56,117 - utils_dashboard - INFO - Caricate 0 scansioni dal database (limit=500)
+2026-03-09 13:01:35,296 - datastore - INFO - Database initialized at C:\Users\eliad\OneDrive\Documenti\Project_Sherlook\osint_suite_pro\osint_scans.db
+2026-03-09 13:01:35,300 - utils_dashboard - INFO - Caricate 144 capitali dal file JSON
+2026-03-09 13:01:35,305 - datastore - ERROR - Errore caricamento scansioni: no such column: found_pct
+2026-03-09 13:01:35,308 - utils_dashboard - INFO - Caricate 0 scansioni dal database (limit=500)
+2026-03-09 13:01:53,449 - datastore - INFO - Database initialized at C:\Users\eliad\OneDrive\Documenti\Project_Sherlook\osint_suite_pro\osint_scans.db
+2026-03-09 13:01:53,451 - utils_dashboard - INFO - Caricate 144 capitali dal file JSON
+2026-03-09 13:01:53,469 - datastore - ERROR - Errore salvataggio scan: table scans has no column named found_pct
+2026-03-09 13:01:53,471 - datastore - ERROR - Errore salvataggio scan: table scans has no column named found_pct
+2026-03-09 13:01:53,474 - datastore - ERROR - Errore salvataggio scan: table scans has no column named found_pct
+2026-03-09 13:01:53,482 - datastore - ERROR - Errore salvataggio scan: table scans has no column named found_pct
+2026-03-09 13:01:53,491 - datastore - ERROR - Errore salvataggio scan: table scans has no column named found_pct
+2026-03-09 13:01:53,491 - utils_dashboard - INFO - Demo data generato: 5 scansioni
+2026-03-09 13:01:53,591 - datastore - INFO - Database initialized at C:\Users\eliad\OneDrive\Documenti\Project_Sherlook\osint_suite_pro\osint_scans.db
+2026-03-09 13:01:53,593 - utils_dashboard - INFO - Caricate 144 capitali dal file JSON
+2026-03-09 13:01:53,599 - datastore - ERROR - Errore caricamento scansioni: no such column: found_pct
+2026-03-09 13:01:53,601 - utils_dashboard - INFO - Caricate 0 scansioni dal database (limit=500)
+2026-03-09 13:02:05,666 - datastore - INFO - Database initialized at C:\Users\eliad\OneDrive\Documenti\Project_Sherlook\osint_suite_pro\osint_scans.db
+2026-03-09 13:02:05,668 - utils_dashboard - INFO - Caricate 144 capitali dal file JSON
+2026-03-09 13:02:33,163 - datastore - INFO - Database initialized at C:\Users\eliad\OneDrive\Documenti\Project_Sherlook\osint_suite_pro\osint_scans.db
+2026-03-09 13:02:33,165 - utils_dashboard - INFO - Caricate 144 capitali dal file JSON
+2026-03-09 13:02:33,171 - datastore - ERROR - Errore caricamento scansioni: no such column: found_pct
+2026-03-09 13:02:33,174 - utils_dashboard - INFO - Caricate 0 scansioni dal database (limit=500)
+2026-03-09 13:02:39,126 - datastore - INFO - Database initialized at C:\Users\eliad\OneDrive\Documenti\Project_Sherlook\osint_suite_pro\osint_scans.db
+2026-03-09 13:02:39,129 - utils_dashboard - INFO - Caricate 144 capitali dal file JSON
+2026-03-09 13:02:39,136 - utils_dashboard - INFO - System Insights: 0 scans, 0 utenti, 0.1 MB
+2026-03-09 13:02:41,082 - datastore - INFO - Database initialized at C:\Users\eliad\OneDrive\Documenti\Project_Sherlook\osint_suite_pro\osint_scans.db
+2026-03-09 13:02:41,084 - utils_dashboard - INFO - Caricate 144 capitali dal file JSON
+2026-03-09 13:02:41,090 - datastore - ERROR - Errore caricamento scansioni: no such column: found_pct
+2026-03-09 13:02:42,383 - datastore - INFO - Database initialized at C:\Users\eliad\OneDrive\Documenti\Project_Sherlook\osint_suite_pro\osint_scans.db
+2026-03-09 13:02:42,386 - utils_dashboard - INFO - Caricate 144 capitali dal file JSON
+2026-03-09 13:04:26,661 - datastore - INFO - Database initialized at C:\Users\eliad\OneDrive\Documenti\Project_Sherlook\osint_suite_pro\osint_scans.db
+2026-03-09 13:04:26,665 - utils_dashboard - INFO - Caricate 144 capitali dal file JSON
+2026-03-09 13:04:26,671 - datastore - ERROR - Errore caricamento scansioni: no such column: found_pct
+2026-03-09 13:04:26,674 - utils_dashboard - INFO - Caricate 0 scansioni dal database (limit=500)
+2026-03-09 13:04:33,632 - datastore - INFO - Database initialized at C:\Users\eliad\OneDrive\Documenti\Project_Sherlook\osint_suite_pro\osint_scans.db
+2026-03-09 13:04:33,634 - utils_dashboard - INFO - Caricate 144 capitali dal file JSON
+2026-03-09 13:04:34,915 - datastore - INFO - Database initialized at C:\Users\eliad\OneDrive\Documenti\Project_Sherlook\osint_suite_pro\osint_scans.db
+2026-03-09 13:04:34,918 - utils_dashboard - INFO - Caricate 144 capitali dal file JSON
+2026-03-09 13:04:42,346 - datastore - INFO - Database initialized at C:\Users\eliad\OneDrive\Documenti\Project_Sherlook\osint_suite_pro\osint_scans.db
+2026-03-09 13:04:42,349 - utils_dashboard - INFO - Caricate 144 capitali dal file JSON
+2026-03-09 13:04:42,358 - utils_dashboard - INFO - System Insights: 0 scans, 0 utenti, 0.1 MB
+2026-03-09 13:04:43,734 - datastore - INFO - Database initialized at C:\Users\eliad\OneDrive\Documenti\Project_Sherlook\osint_suite_pro\osint_scans.db
+2026-03-09 13:04:43,736 - utils_dashboard - INFO - Caricate 144 capitali dal file JSON
+2026-03-09 13:04:43,743 - datastore - ERROR - Errore caricamento scansioni: no such column: found_pct
+2026-03-09 13:04:45,421 - datastore - INFO - Database initialized at C:\Users\eliad\OneDrive\Documenti\Project_Sherlook\osint_suite_pro\osint_scans.db
+2026-03-09 13:04:45,424 - utils_dashboard - INFO - Caricate 144 capitali dal file JSON
+2026-03-09 13:04:51,351 - datastore - INFO - Database initialized at C:\Users\eliad\OneDrive\Documenti\Project_Sherlook\osint_suite_pro\osint_scans.db
+2026-03-09 13:04:51,354 - utils_dashboard - INFO - Caricate 144 capitali dal file JSON
+2026-03-09 13:08:21,937 - datastore - INFO - Added missing column 'found_pct' to scans table
+2026-03-09 13:08:21,937 - datastore - INFO - Database initialized at C:\Users\eliad\OneDrive\Documenti\Project_Sherlook\osint_suite_pro\osint_scans.db
+2026-03-09 13:08:21,940 - utils_dashboard - INFO - Caricate 144 capitali dal file JSON
+2026-03-09 13:08:21,981 - utils_dashboard - INFO - Caricate 10 scansioni dal database (limit=500)
+2026-03-09 13:08:48,774 - datastore - INFO - Database initialized at C:\Users\eliad\OneDrive\Documenti\Project_Sherlook\osint_suite_pro\osint_scans.db
+2026-03-09 13:08:48,778 - utils_dashboard - INFO - Caricate 144 capitali dal file JSON
+2026-03-09 13:09:16,280 - datastore - INFO - Database initialized at C:\Users\eliad\OneDrive\Documenti\Project_Sherlook\osint_suite_pro\osint_scans.db
+2026-03-09 13:09:16,282 - utils_dashboard - INFO - Caricate 144 capitali dal file JSON

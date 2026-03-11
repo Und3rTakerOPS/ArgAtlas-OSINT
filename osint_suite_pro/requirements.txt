@@ -1,0 +1,9 @@
+streamlit>=1.20
+requests
+beautifulsoup4
+pandas
+fpdf
+plotly
+openpyxl
+networkx
+python-dotenv
