@@ -1,4 +1,4 @@
-# ArgAtlas v4 (Beta)
+# ArgAtlas (Beta)
 
 ArgAtlas is a Streamlit dashboard for OSINT workflows on usernames, emails, domains, and IP indicators.
 The project combines multi-platform discovery, external API enrichment, local SQLite persistence,
