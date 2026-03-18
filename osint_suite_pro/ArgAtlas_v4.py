@@ -5,6 +5,12 @@
 # Quick Scan • Single Scan (full) • Batch CSV • Reports Center • Entity Graph • Snapshot HTML
 # Smart cache (invalidates on DB changes)
 
+﻿"""
+ArgAtlas-OSINT
+Author signature: Eliad
+Attribution notice: do not remove or alter this signature without the author's explicit consent.
+"""
+
 import os
 import json
 import tempfile
